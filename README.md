@@ -54,5 +54,5 @@ streamlit run app.py
 
 ## Author
 
-**Salma Bentahar Alaoui** — M2 Mesure et Traitement de l'Information, Université de Lorraine  
+**Salma Bentahar Alaoui** — M2 Mesure et Traitement de l'Information, Université de Lorraine , France, et Ingénieure d'état lauréate de l'Ecole Nationale des Sciences Appliquées , Maroc. 
 AI/ML Engineer seeking CDI from October 2026
