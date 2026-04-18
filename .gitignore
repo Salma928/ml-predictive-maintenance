@@ -1,0 +1,6 @@
+venv/
+model_iso_forest.pkl
+scaler.pkl
+data/
+__pycache__/
+*.pyc
